@@ -19,4 +19,4 @@ The **Hexagon Planter** was modeled using our updated 2016 modeling workflow, wh
 
 *Nesting Layout*
 
-![Hexagon Planter](https://github.com/AKERKits/Hexagon-Planter/blob/master/Images/AKER%20-%20Hexagon%20Planter%20-%20v1.0%20-%20Nesting%20Assembly-min.jpg?raw=true)
+![Hexagon Planter](https://github.com/AKERKits/Hexagon-Planter/blob/master/Images/AKER%20-%20Hexagon%20Planter%20-%20v1.0%20-%20Nesting%20Assembly-min%20Cropped.jpg?raw=true)
