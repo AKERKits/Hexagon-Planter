@@ -12,10 +12,20 @@ We model each kit in SolidWorks. To access the parametric source files, download
 
 The **Hexagon Planter** was modeled using our updated 2016 modeling workflow, which provides a wider range of options than our 2015 process. This source file pack has DXFs in the following formats:
 
+ * 0.5 inch material & 0.125 inch tool
  * 0.5 inch material & 0.25 inch tool
+ * 0.5 inch material & 0.375 inch tool
+ * 0.75 inch material & 0.125 inch tool
  * 0.75 inch material & 0.25 inch tool
- * 12 mm material & 6.35 mm tool
- * 18 mm material & 6.35 mm tool
+ * 0.75 inch material & 0.375 inch tool
+ * 0.75 inch material & 0.5 inch tool
+ * 12 mm material & 3 mm tool
+ * 12 mm material & 6 mm tool
+ * 12 mm material & 10 mm tool
+ * 18 mm material & 3 mm tool
+ * 18 mm material & 6 mm tool
+ * 18 mm material & 10 mm tool
+ * 18 mm material & 12 mm tool
 
 *Nesting Layout*
 
