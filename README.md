@@ -2,7 +2,7 @@
 
 *Overview*
 
-The **AKER Hexagon Planter** is a lightweight chicken tractor designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
+The **AKER Hexagon Planter** is a modular wall planter designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
 
 ![Hexagon Planter](https://github.com/AKERKits/Hexagon-Planter/blob/master/Images/AKER%20-%20Hexagon%20Planter%20-%20v1.0%20-%20Master%20Assembly-min%20Cropped.jpg?raw=true)
 
